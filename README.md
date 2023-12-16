@@ -26,21 +26,27 @@
 ## Languages
 
 <p align='center'>
+  <img src='https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white' />
+  <img src='https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white' />
+  <img src='https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white' />
+  <img src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white' />
+  <img src='https://img.shields.io/badge/-Ruby-3816AB?style=flat-square&logo=Ruby&logoColor=white' />
   <img src='https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white' />
   <img src='https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Rust-363636?style=flat-square&logo=Rust&logoColor=white' />
   <img src='https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white' />
   <img src='https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white' />
   <img src='https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Ruby-3816AB?style=flat-square&logo=Ruby&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white' />
 </p>
 
 ## Frameworks & Tools
 
 <p align='center'>
+  <img src='https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white' />
+  <img src='https://img.shields.io/badge/-WebGL-2D4F7F?style=flat-square&logo=webgl&logoColor=white' />
+  <img src='https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white' />
+  <img src='https://img.shields.io/badge/-Unity-333333?style=flat-square&logo=unity&logoColor=white' />
+  <img src='https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat-square&logo=unreal-engine&logoColor=white' />
+  <img src='https://img.shields.io/badge/-AR%20%26%20VR-000000?style=flat-square&logo=augmented-reality&logoColor=white' />
   <img src='https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white' />
   <img src='https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white' />
   <img src='https://img.shields.io/badge/-Vue-3FB27F?style=flat-square&logo=Vue.js&logoColor=white' />
@@ -67,12 +73,3 @@
   <img src='https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white' />
   <img src='https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white' />
 </p>
-<br/>
-
-- 🔭 I’m currently working as a web and mobile app developer.
-- 👯 I have expertise in latest Tech such as Svelte, Flutter, WebRTC, ChatGPT, OpenAI and so on, and I’m looking to collaborate a long-term client in web and mobile industries.
-# Here are my main skills:<br/>
-* web skills: JavaScript Frameworks (Nodejs, React/Redux, Next.JS, Angular), JS/TS, SCSS/TailwindCSS, PHP Frameworks (Symfony, Laravel), Python Frameworks (Django, Flask), 
-* app skills: Flutter, React-native
-* other Tech: WebRTC, openAI, ChatGPT, socket.io, websocket, SEO...
-  -->
